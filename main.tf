@@ -1,6 +1,7 @@
 module "module" {
   source  = "daniela-docker1.tf-support.hashicorpdemo.com/daniela-org/module/null"
   version = "1.0.2"
+  myvar   = 4
 }
 
 output "message" {
