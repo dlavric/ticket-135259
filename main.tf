@@ -4,5 +4,5 @@ module "module" {
 }
 
 output "message" {
-    value = "My Module has been called"
+    value = "My Module has been called..."
 }
