@@ -1,5 +1,5 @@
 module "mymodule" {
-    source = "git@github.com:dlavric/module-as-code-tf.git"
+    source = "git@github.com:dlavric/terraform-null-module.git"
 }
 
 output "message" {
