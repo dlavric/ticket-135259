@@ -1,5 +1,5 @@
 module "module" {
-  source  = "localterraform.com/daniela-org/module/null"
+  source  = "daniela-docker1.tf-support.hashicorpdemo.com/daniela-org/module/null"
   version = "1.0.2"
   myvar   = 4
 }
